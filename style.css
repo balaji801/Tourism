@@ -1,0 +1,173 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.logo img 
+{
+    width:90px;
+    height: 80px;
+    margin-left: 30px;
+    background-color: rgb(0, 0, 53);
+}
+
+nav
+{
+    background-color: rgb(0, 0, 53); 
+    height: 85px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.nav a {
+    text-decoration: none;
+    color: salmon;
+    list-style-type: none;
+    font-size: 22px;
+    font-weight: bold;
+    font-family:;
+    margin: 30px 50px;
+
+}
+
+.nav a:hover
+{
+    text-decoration:none;
+    color:lightblue;
+    zoom: 1.2;
+}
+
+.nav :active
+{
+    color: darkgoldenrod;
+}
+.sub
+{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/002/118/158/original/electricity-low-poly-wireframe-illustration-free-vector.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.part1
+{
+    font-size: 50px;
+    text-align: center;
+    font-weight: bolder;
+    color: palevioletred;
+}
+.sub-1
+{
+    color: lightcoral;
+    font-size: medium;
+    font-style: italic;
+    font-weight: bold;
+}
+.sub-2
+{
+    color: lightgreen;
+    font-size: medium;
+    font-style: italic;
+    font-weight: bold;
+}
+.pac
+{
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20201028/pngtree-abstract-technology-background-technical-electric-image_443494.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.mac
+{
+    background-image: url(https://www.shutterstock.com/image-illustration/abstract-dark-futuristic-blue-night-260nw-1810063750.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.arc
+{
+    background-image: url(https://cdn4.vectorstock.com/i/1000x1000/84/83/electrical-background-vector-128483.jpg);
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+.dac
+{
+    background-image: url(https://img.freepik.com/premium-vector/geometric-gradient-technology-background_23-2149110132.jpg);
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+.an
+{
+    font-size: 25px;
+    font-weight:bolder;
+    color: rgb(185, 3, 3);
+
+}
+.ms
+{
+    width: 80%;
+    text-align: center;
+    margin-left: 200px;
+    margin-top: 50px;
+    padding: 10px 10px;
+}
+
+.pic1{
+    float: left;
+}
+.pic2{
+    float: left;
+
+}
+.pic3{
+    float: left;
+
+}
+.pic4{
+    float: left;
+}
+.pic5{
+    float: left;
+}
+.pic6{
+    float: left;
+}
+.pic1 img{
+    width: 300px;
+    height: 200px;
+    margin: 20px 0 0 30px;
+}
+
+.pic2 img{
+    width: 300px;
+    height: 200px;
+    margin: 20px 0 0 30px;
+}
+.pic3 img{
+    width: 300px;
+    height: 200px;
+    margin: 20px 0 0 30px;
+}
+.pic4 img{
+    width: 300px;
+    height: 200px;
+    margin: 20px 0 0 30px;
+}
+.pic5 img{
+    width: 300px;
+    height: 200px;
+    margin: 20px 0 0 30px;
+}
+.pic6 img{
+    width: 300px;
+    height: 200px;
+    margin: 20px 0 0 30px;
+}
+.pac1
+{
+    background-image: url(https://images.vexels.com/content/70526/preview/chip-wires-abstract-electrical-background-7825db.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+p:hover{
+    color: blanchedalmond;
+    text-decoration: solid;
+}
